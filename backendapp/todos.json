@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Fetch kid from Tuition",
+      "complete": true,
+      "date": "Mon Apr 11, 2022",
+      "dateCompleted": "Mon Sep 04 2023"
+    },
+    {
+      "id": 2,
+      "text": "make dinner",
+      "complete": true,
+      "date": "Mon Apr 11, 2022",
+      "dateCompleted": "Mon Sep 04 2023"
+    },
+    {
+      "id": 3,
+      "text": "Post to twitter",
+      "complete": false,
+      "date": "Mon Apr 11, 2022",
+      "dateCompleted": false
+    },
+    {
+      "text": "finish vue book",
+      "complete": true,
+      "date": "Mon Sep 04 2023",
+      "dateCompleted": "Mon Sep 04 2023",
+      "id": 4
+    }
+  ]
+}
